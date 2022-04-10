@@ -1,0 +1,44 @@
+{
+    "users": [
+        {
+            "firstName": "Maxim",
+            "middleName": "Teplov",
+            "lastName": "Olegovich",
+            "age": 25,
+            "social": {
+                "vk": "vk.com/id12313",
+                "facebook": "facebook.com/id123213"
+            }
+        },
+        {
+            "firstName": "Jenya",
+            "middleName": "Bandurina",
+            "lastName": "Nikolaevna",
+            "age": 22,
+            "social": {
+                "vk": "vk.com/id12313",
+                "facebook": "facebook.com/id123213"
+            }
+        },
+        {
+            "firstName": "Pavel",
+            "middleName": "Pavlov",
+            "lastName": "Pavlovich",
+            "age": 31,
+            "social": {
+                "vk": "vk.com/id12313",
+                "facebook": "facebook.com/id123213"
+            }
+        },
+        {
+            "firstName": "Ivan",
+            "middleName": "Ivanov",
+            "lastName": "Ivanovich",
+            "age": 13,
+            "social": {
+                "vk": "vk.com/id12313",
+                "facebook": "facebook.com/id123213"
+            }
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "users": [
+        {
+            "firstName": "Maxim",
+            "middleName": "Teplov",
+            "lastName": "Olegovich",
+            "age": 25,
+            "social": {
+                "vk": "vk.com/id123",
+                "facebook": "facebook.com/id123213"
+            }
+        },
+        {
+            "firstName": "Jenya",
+            "middleName": "Bandurina",
+            "lastName": "Nikolaevna",
+            "age": 22,
+            "social": {
+                "vk": "vk.com/id123",
+                "facebook": "facebook.com/id1766371"
+            }
+        }
+    ]
+}
