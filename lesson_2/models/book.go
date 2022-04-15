@@ -29,15 +29,11 @@ func init() {
 }
 
 func GetBookById(id int) (*Book, bool) {
-	var book Book
-	var found bool
-
-	for _, bookInDb := range Db {
+	for key, bookInDb := range Db {
 		if bookInDb.Id == id {
-			book = bookInDb
-			found = true
+			return &Db[key], true
 		}
 	}
 
-	return &book, found
+	return nil, false
 }
