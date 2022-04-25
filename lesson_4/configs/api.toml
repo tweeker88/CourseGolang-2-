@@ -1,0 +1,6 @@
+[web-server]
+bind_addr = ":8000"
+logger_level = "debug"
+[storage]
+
+database = "host=localhost port=5432 user=golang password=golang dbname=golang sslmode=disable"
